@@ -35,6 +35,8 @@ sudo systemctl start jenkins
 sudo systemctl status jenkins
 #Give executable permissions to the jenkins.sh file
 chmod +x jenkins.sh
+#TO execute the jenkins File
+./jenkins.sh
 
 Verifiy Jenkins installation: jenkins --version
 
@@ -715,6 +717,7 @@ Kind Request:
 Once after you have successfully deployed the App, kindly share your experience on LinkedIn by Tagging me and also provide the YouTube link of this project in your post, as it helps others to access the video quickly. 
 ========================================================================================================
 												HAPPY LEARNING
+
 
 
 
